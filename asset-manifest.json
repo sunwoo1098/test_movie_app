@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sunwoo1098/test_movie_app/static/css/main.4e091144.css",
+    "main.js": "/sunwoo1098/test_movie_app/static/js/main.59e50a0c.js",
+    "index.html": "/sunwoo1098/test_movie_app/index.html",
+    "main.4e091144.css.map": "/sunwoo1098/test_movie_app/static/css/main.4e091144.css.map",
+    "main.59e50a0c.js.map": "/sunwoo1098/test_movie_app/static/js/main.59e50a0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e091144.css",
+    "static/js/main.59e50a0c.js"
+  ]
+}
